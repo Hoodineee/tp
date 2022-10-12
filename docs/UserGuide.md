@@ -137,6 +137,7 @@ Format: `find KEYWORD/ID [MORE_KEYWORDS/MORE_ID]`
 
 Examples:
 * `find John` returns `john` and `John Doe`
+* `findName John` returns `john` and `John Doe`
 * `find alex david` returns `Alex Yeoh`, `David Li`<br>
   ![result for 'find alex david'](images/findAlexDavidResult.png)
 
